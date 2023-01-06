@@ -5,6 +5,10 @@
  
  ## To run the project on your local machine:
  
+ - Clone the repository.
+ - Open it in an IDE of your own choice.
+ - Follow the below instructions.
+ 
  ### Run on Terminal
 
 ```sh
